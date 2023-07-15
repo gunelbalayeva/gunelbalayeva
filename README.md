@@ -1,5 +1,5 @@
   
-  👋 Hi, I’m Gunel Balayeva! 
+  👋 Hi, I’m Gunel! 
  
  Backend | Java 
  
