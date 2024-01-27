@@ -1,9 +1,7 @@
-  
-  👋 Hi, I’m Gunel! 
- 
+   
  Backend | Java 
  
- gunelbalayeva@outlook.com
+gunelbalayeva97@gmail.com
  
 <!---
 gunelbalayeva/gunelbalayeva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
